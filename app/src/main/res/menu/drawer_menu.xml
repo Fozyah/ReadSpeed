@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/defult" android:title="@string/test" android:icon="@drawable/web_hi_res_512"/>
+<item android:id="@+id/db" android:title="@string/setting" android:icon="@drawable/ic_action_settings" />
+    <item android:id="@+id/logout" android:title="@string/logout" android:icon="@drawable/icons8_shutdown_26"/>
+</menu>

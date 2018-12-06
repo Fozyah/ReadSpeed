@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "700985167991",
+    "firebase_url": "https://readspeed-50ef7.firebaseio.com",
+    "project_id": "readspeed-50ef7",
+    "storage_bucket": "readspeed-50ef7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700985167991:android:b20119d36c7bcb6f",
+        "android_client_info": {
+          "package_name": "com.example.bobly.readspeed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700985167991-j88g3r10g1bcohfejvb3qmtrksq61daf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bobly.readspeed",
+            "certificate_hash": "134883fe21e8363981afa3d19e6817b9eed32262"
+          }
+        },
+        {
+          "client_id": "700985167991-8ge3qm0ign200t4gvucquvcesqnmntro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsFD6rEZyPFY_u6h2_aH1oUrATaLNLouk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700985167991-8ge3qm0ign200t4gvucquvcesqnmntro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
